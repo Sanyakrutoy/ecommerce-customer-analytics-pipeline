@@ -19,3 +19,4 @@ Key finding: **Conversion rate is 8.56%**, but potential revenue loss from aband
 ## Key Insights
 - **Conversion Rate**: 8.56% (High intent audience).
 - **Major Leakage**: Abandoned carts are 3x higher than actual purchases. Recommendation: Implement "Abandoned Cart" email triggers.
+![Sales Funnel](visualisation/result.png)
