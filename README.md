@@ -1,5 +1,5 @@
 # ecommerce-customer-analytics-pipeline
-# Cosmetics Store Data Pipeline & Analytics 💄
+# Cosmetics Store Data Pipeline & Analytics
 
 ## Executive Summary
 Analyzed 4.6M customer events to identify growth opportunities. 
